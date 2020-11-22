@@ -1,6 +1,6 @@
 {
-  "port": 5000,
+  "port": 80,
   "jwtSecret": "YhQkf6AuamX3NvTxrbdMLYH2H9FTPFrq",
   "mongoURI": "mongodb+srv://veeshort:6dCpP9K3pfmtC7fZ@cluster0.gppez.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
+  "baseUrl": "https://en-words-app.herokuapp.com/"
 }
