@@ -1,0 +1,6 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+@import "~material-icons/iconfont/material-icons.css";
+
+form label {
+  pointer-events: none;
+}
