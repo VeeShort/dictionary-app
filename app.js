@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const path = require('path');
 
 const app = express();
-const PORT = config.get('port') || 5000;
+const PORT = process.env.PORT || config.get('port') || 5000;
 
 app.use(express.json({ extended: true }));
 

@@ -18,6 +18,7 @@
   "author": "Vladyslav Korotkyy <vee.short.5014@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.797.0",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.2",
     "express": "^4.17.1",
